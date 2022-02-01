@@ -14,7 +14,7 @@ urlFragment: openhack-devops-team
 
 # My Driving Team APIs
 
-The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenges. Testing PR
+The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenges. Testing PR review
 
 ## Architecture
 
