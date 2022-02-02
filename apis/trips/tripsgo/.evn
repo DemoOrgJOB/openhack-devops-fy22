@@ -1,0 +1,5 @@
+SQL_SERVER="openhackybx7nv44sql.database.windows.net"
+SQL_PASSWORD="demo@pass123"
+SQL_USER="demousersa"
+SQL_DBNAME="mydrivingDB"
+SQL_DRIVER="mssql"  	
